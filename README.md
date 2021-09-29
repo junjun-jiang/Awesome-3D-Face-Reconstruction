@@ -10,7 +10,7 @@ A list of 3D face reconstruction resources. We try to keep it updated every week
 
 - **[3DCS]**  3DCaricShop: A Dataset and a Baseline Method for Single-View 3D Caricature Face Reconstruction, CVPR2021, Y. Qiu et al. [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Qiu_3DCaricShop_A_Dataset_and_a_Baseline_Method_for_Single-View_3D_CVPR_2021_paper.pdf)[Code]
 
-- **[SADRNet]** SADRNet: Self-Aligned Dual Face Regression Networks for Robust 3D Dense Face Alignment and Reconstruction, TIP2021, Z. Ruan et al. [[PDF](https://arxiv.org/pdf/2106.03021)[Code]
+- **[SADRNet]** SADRNet: Self-Aligned Dual Face Regression Networks for Robust 3D Dense Face Alignment and Reconstruction, TIP2021, Z. Ruan et al. [[PDF]](https://arxiv.org/pdf/2106.03021)[[Code]](https://github.com/MCG-NJU/SADRNet)
 
 - **[IGARen]** Inverting Generative Adversarial Renderer for Face Reconstruction, CVPR2021, J. Piao et al. [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Piao_Inverting_Generative_Adversarial_Renderer_for_Face_Reconstruction_CVPR_2021_paper.pdf)[Code]
 
@@ -18,9 +18,9 @@ A list of 3D face reconstruction resources. We try to keep it updated every week
 
 - **[WSM-Face]** Weakly-Supervised Multi-Face 3D Reconstruction, arXiv，J. Zhang et al. [[PDF]](https://arxiv.org/pdf/2101.02000)[[Code]](https://github.com/kalyo-zjl/WM3DR)
 
-- **[SGAN-AF]** Lifting 2D StyleGAN for 3D-Aware Face Generation, CVPR2021, Y. Shi et al. [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Shi_Lifting_2D_StyleGAN_for_3D-Aware_Face_Generation_CVPR_2021_paper.pdf)[Code]
+- **[SGAN-AF]** Lifting 2D StyleGAN for 3D-Aware Face Generation, CVPR2021, Y. Shi et al. [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Shi_Lifting_2D_StyleGAN_for_3D-Aware_Face_Generation_CVPR_2021_paper.pdf)[[Code]](https://github.com/seasonSH/LiftedGAN)
 
-- **[LDR-NPM]** Landmark Detection and 3D Face Reconstruction for Caricature using a Nonlinear Parametric Model, GM2021, H. Cai et al. [[PDF]](https://arxiv.org/pdf/2004.09190)[Code]
+- **[LDR-NPM]** Landmark Detection and 3D Face Reconstruction for Caricature using a Nonlinear Parametric Model, GM2021, H. Cai et al. [[PDF]](https://arxiv.org/pdf/2004.09190)[[Code]](https://github.com/Juyong/CaricatureFace)
 
 - **[PFR-DRTrac]** Practical Face Reconstruction via Differentiable Ray Tracing, GRF2021, A. Dib et al. [[PDF]](https://arxiv.org/pdf/2101.05356)[Code]
 
@@ -40,7 +40,7 @@ A list of 3D face reconstruction resources. We try to keep it updated every week
 
 - **[AP-WI]** Learning To Aggregate and Personalize 3D Face From In-the-Wild Photo Collection, CVPR2021, Z. Zhang et al. [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Learning_To_Aggregate_and_Personalize_3D_Face_From_In-the-Wild_Photo_CVPR_2021_paper.pdf) [Code]
 
-- **[Multi-Gran]** Multi-Granularity Feature Interaction and Relation Reasoning for 3D Dense Alignment and Face Reconstruction, ICASSP2021, L. LI et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9413649)[Code]
+- **[Multi-Gran]** Multi-Granularity Feature Interaction and Relation Reasoning for 3D Dense Alignment and Face Reconstruction, ICASSP2021, L. LI et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9413649)[[Code]](https://github.com/leilimaster/MFIRRN)
 
 - **[Muti-SSL]** Multi-view self-supervised learning for 3D facial texture reconstruction from single image, IVC2021, X. Zeng et al. [[PDF]](https://www.sciencedirect.com/science/article/pii/S026288562100216X/pdfft?isDTMRedir=true&download=true)[Code]
 
@@ -76,8 +76,23 @@ A list of 3D face reconstruction resources. We try to keep it updated every week
 
 -
 
-
 ## Datasets
+
+* **[CelebA](https://paperswithcode.com/dataset/celeba)**
+* **[CelebA-HQ](https://paperswithcode.com/dataset/celeba-hq)**
+* **[CelebAMask-HQ](https://paperswithcode.com/dataset/celebamask-hq)**
+* **[FFHQ](https://paperswithcode.com/dataset/ffhq)**
+* **[Florence](https://paperswithcode.com/dataset/florence)**
+* **[FaceWarehouse](https://paperswithcode.com/dataset/facewarehouse)**
+* **[FaceScape](https://paperswithcode.com/dataset/facescape)**
+* **[AFLW2000-3D](https://paperswithcode.com/dataset/aflw2000-3d)**
+* **[BAM!](https://paperswithcode.com/dataset/bam)**
+* **[AFLW2000-3D](https://paperswithcode.com/dataset/aflw2000-3d)**
+* **[CASIA-WebFace](https://paperswithcode.com/dataset/casia-webface)**
+* **[NoW Benchmark](https://paperswithcode.com/dataset/now-benchmark)**
+* **[VGGFace2](https://paperswithcode.com/dataset/vggface2-1)**
+* **[VoxCeleb2](https://paperswithcode.com/dataset/voxceleb2)**
+* **[NoW Benchmark](https://paperswithcode.com/dataset/now-benchmark)**
 
 ## Evaluation Metrics
 
