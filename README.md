@@ -162,7 +162,13 @@ A list of 3D face reconstruction resources. We try to keep it updated every week
 
 ### 2017
 
-* 
+* **[End2End]** End-To-End 3D Face Reconstruction With Deep Neural Networks, CVPR2017, P. Dou et al. [[PDF]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Dou_End-To-End_3D_Face_CVPR_2017_paper.pdf)[Code]
+* **[DFR-Single]** Learning Detailed Face Reconstruction From a Single Image, CVPR2017, E. Richardson et al. [[PDF]](https://arxiv.org/pdf/1611.05053)[Code]
+* **[Large Pose]** Large Pose 3D Face Reconstruction From a Single Image via Direct Volumetric CNN Regression, CVPR2017, A. S. Jackson et al. [[PDF]](https://arxiv.org/pdf/1703.07834)[[Code]](https://github.com/AaronJackson/vrn)
+* **[3DMM-Wild]** 3D Face Morphable Models "In-The-Wild", CVPR2017, J .Booth et al. [[PDF]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Booth_3D_Face_Morphable_CVPR_2017_paper.pdf)[Code]
+* **[RRD-3DMM]** Regressing Robust and Discriminative 3D Morphable Models with a very Deep Neural Network, CVPR2017, A. T. Tran et al. [[PDF]](https://arxiv.org/pdf/1612.04904)[[Code]](https://github.com/anhttran/3dmm_cnn)
+* **[MoFA]** MoFA: Model-Based Deep Convolutional Face Autoencoder for Unsupervised Monocular Reconstruction, ICCV2017, A. Tewari et al. [[PDF]](https://arxiv.org/pdf/1703.10580v2)[[Code]](https://github.com/cecabert/Presentation?utm_source=catalyzex.com)
+* **[UFG-I2I]** Unrestricted Facial Geometry Reconstruction Using Image-To-Image Translation, ICCV2017, M. Sela et al. [[PDF]](https://arxiv.org/pdf/1703.10131v2)[[Code]](https://github.com/matansel/pix2vertex)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 
 
 ### Before 2017
