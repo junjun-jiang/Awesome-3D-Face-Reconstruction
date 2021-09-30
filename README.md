@@ -142,6 +142,7 @@ A list of 3D face reconstruction resources. We try to keep it updated every week
 ### 2018
 
 * **[DF-JFR-R]** Disentangling Features in 3D Face Shapes for Joint Face Reconstruction and Recognition, CVPR2018, F. Liu et al. [[PDF]](https://arxiv.org/pdf/1803.11366v1)[Code]
+* **[RGB-D]** Texture Mapping for 3D Reconstruction With RGB-D Sensor, CVPR2018, Y. Fu et al. [[PDF]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Fu_Texture_Mapping_for_CVPR_2018_paper.pdf)[Code]
 * **[Extreme3DFR]** Extreme 3D Face Reconstruction: Seeing Through Occlusions, CVPR2018, A. T. Tran et al. [[PDF]](https://arxiv.org/pdf/1712.05083v2.pdf)[[Code]](https://github.com/anhttran/extreme_3d_faces)
 * **[Unsupervised-Training]** Unsupervised Training for 3D Morphable Model Regression, CVPR2018, K. Genova et al. [[PDF]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Genova_Unsupervised_Training_for_CVPR_2018_paper.pdf)[[Code]](https://github.com/google/tf_mesh_renderer)
 * **[SP3DFR]** Sparse Photometric 3D Face Reconstruction Guided by Morphable Models, CVPR2018, X. Cao et al.[[PDF]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Cao_Sparse_Photometric_3D_CVPR_2018_paper.pdf)[Code]
@@ -156,7 +157,6 @@ A list of 3D face reconstruction resources. We try to keep it updated every week
 * **[CNN-RealTime]** CNN-Based Real-Time Dense Face Reconstruction with Inverse-Rendered Photo-Realistic Face Images, TPAMI2018, Y. Guo et al. [[PDF]](https://arxiv.org/pdf/1708.00980v3.pdf)[Code]
 * **[3DFR-LFI]** 3D Face Reconstruction from Light Field Images: A Model-free Approach, ECCV2018,  M. Feng et al. [[PDF]](https://arxiv.org/pdf/1711.05953v4.pdf)[Code]
 * **[HFMFR-UM]** High-Fidelity Monocular Face Reconstruction Based on an Unsupervised Model-Based Face Autoencoder, TPAMI2018, A. Tewari et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8496850)[Code]
-* **[RGB-D]** Texture Mapping for 3D Reconstruction With RGB-D Sensor, CVPR2018, Y. Fu et al. [[PDF]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Fu_Texture_Mapping_for_CVPR_2018_paper.pdf)
 * **[Low-Resolution]** 3D Face Reconstruction from Low-Resolution Images with Convolutional Neural Networks, ICVIP2018, R. Winkler et al. [[PDF]](https://www.researchgate.net/profile/Chengchao-Qu/publication/332285472_3D_Face_Reconstruction_from_Low-Resolution_Images_with_Convolutional_Neural_Networks/links/5d5e490f299bf1b97cfd090a/3D-Face-Reconstruction-from-Low-Resolution-Images-with-Convolutional-Neural-Networks.pdf)[Code]
 * **[ExpNet]** ExpNet: Landmark-Free, Deep, 3D Facial Expressions, FG2018, F. Chang et al. [[PDF]](https://arxiv.org/pdf/1802.00542)[Code]
 
