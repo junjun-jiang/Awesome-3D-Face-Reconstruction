@@ -84,7 +84,7 @@ A list of 3D face reconstruction resources. We try to keep it updated every week
 * **[Robust3D]**  Robust3D: a robust 3D face reconstruction application, NCA2020, Z Lv et al.[[PDF]](https://link.springer.com/content/pdf/10.1007/s00521-019-04380-w.pdf)[Code]
 * **[3DFR-Wild]** 3D Face Reconstruction from A Single Image Assisted by 2D Face Images in the Wild, TMM2020, X. Tu et al.[[PDF]](https://arxiv.org/pdf/1903.09359v2.pdf)[[Code]](https://github.com/XgTu/2DASL)
 * **[Past-Presnt-Future]** 3D Morphable Face Models—Past, Present, and Future, ACMTG2020, B. Egger et al.[[PDF]](https://arxiv.org/pdf/1909.01815)[[Code]](https://github.com/3d-morphable-models/curated-list-of-awesome-3D-Morphable-Model-software-and-data)
-* **[Two-Payhway]** A Novel Two-Pathway Encoder-Decoder Network for 3D Face Reconstruction, X. Liu et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9053699)[Code]
+* **[Two-Payhway]** A Novel Two-Pathway Encoder-Decoder Network for 3D Face Reconstruction, ICASSP2020, X. Liu et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9053699)[Code]
 * **[DNN]** Dual Neural Networks Coupling Data Regression with Explicit Priors for Monocular 3D Face Reconstruction, TMM2020, X. Fan et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9093203)[Code]
 
 
