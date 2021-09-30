@@ -115,65 +115,59 @@ A list of 3D face reconstruction resources. We try to keep it updated every week
 ### 2019
 
 * **[GANFIT]** GANFIT: Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction, CVPR2019, B. Gecer et al.[[PDF]](https://arxiv.org/pdf/1902.05978v2.pdf)[[Code]](https://github.com/barisgecer/ganfit)
-
 * **[WSL--I2I]** Accurate 3D Face Reconstruction With Weakly-Supervised Learning: From Single Image to Image Set, CVPR2019, Y. Deng et al. [[PDF]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/AMFG/Deng_Accurate_3D_Face_Reconstruction_With_Weakly-Supervised_Learning_From_Single_Image_CVPRW_2019_paper.pdf)[[Code]](https://github.com/Microsoft/Deep3DFaceReconstruction)
-
 * **[High-Fidelity]** Towards High-Fidelity Nonlinear 3D Face Morphable Model, CVPR2019, L. Tran et al. [[PDF]](https://arxiv.org/pdf/1904.04933v1.pdf)[Code]
-
 * **[MVF-Net]** MVF-Net: Multi-View 3D Face Morphable Model Regression, CVPR2019, F. Wu et al.[[PDF]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_MVF-Net_Multi-View_3D_Face_Morphable_Model_Regression_CVPR_2019_paper.pdf)[Code]
-
 * **[DRL-3DF]** Disentangled Representation Learning for 3D Face Shape， CVPR2019, Z. Jiang et al. [[PDF]](https://arxiv.org/pdf/1902.09887v2.pdf)[[Code]](https://github.com/zihangJiang/DR-Learning-for-3D-Face)
-
 * **[D3DF]** Dense 3D Face Decoding Over 2500FPS: Joint Texture & Shape Convolutional Mesh Decoders, CVPR2019, Y. Zhou et al. [[PDF]](https://arxiv.org/pdf/1904.03525v1.pdf)[Code]
-
 * **[C2FF]** Coarse-to-Fine 3D Face Reconstruction, CVPR2019, L. Galteri et al. [[PDF]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/3D-WidDGET/Leonardo_Galteri_Coarse-to-Fine_3D_Face_Reconstruction_CVPRW_2019_paper.pdf)[Code]
-
 * **[Regress SE]** Learning to Regress 3D Face Shape and Expression From an Image Without 3D Supervision, CVPR2019, S. Sanyal et al. [[PDF]](https://arxiv.org/pdf/1905.06817v1.pdf)[[Code]](https://github.com/soubhiksanyal/RingNet)
-
 * **[MMFace]** MMFace: A Multi-Metric Regression Network for Unconstrained Face Reconstruction, CVPR2019, H. Yi et al. [[PDF]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yi_MMFace_A_Multi-Metric_Regression_Network_for_Unconstrained_Face_Reconstruction_CVPR_2019_paper.pdf)[Code]
-
 * **[DF2Net]** DF2Net: A Dense-Fine-Finer Network for Detailed 3D Face Reconstruction, ICCV2019, X. Zeng et al. [[PDF]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_DF2Net_A_Dense-Fine-Finer_Network_for_Detailed_3D_Face_Reconstruction_ICCV_2019_paper.pdf)[[Code]](https://github.com/xiaoxingzeng/DF2Net)
-
 * **[3DFace-2DVideos]** 3D Face Shape Regression From 2D Videos with Multi-Reconstruction and Mesh Retrieval, ICCV2019, X. Shao et al. [[PDF]](https://openaccess.thecvf.com/content_ICCVW_2019/papers/3DFAW/Shao_3D_Face_Shape_Regression_From_2D_Videos_with_Multi-Reconstruction_and_ICCVW_2019_paper.pdf)[Code]
-
 * **[DMADNet]** Dual Attention MobDenseNet(DAMDNet) for Robust 3D Face Alignment, ICCV2019, L. Jiang et al. [[PDF]](https://arxiv.org/pdf/1908.11821v1.pdf)[[Code]](https://github.com/LeiJiangJNU/DAMDNet)
-
 * **[FDO-3DMM-GAN** Face De-Occlusion Using 3D Morphable Model and Generative Adversarial Network, ICCV2019, X. Yuan et al. [[PDF]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yuan_Face_De-Occlusion_Using_3D_Morphable_Model_and_Generative_Adversarial_Network_ICCV_2019_paper.pdf)[Code]
-
 * **[MVF-SNet]** Multi-View 3D Face Reconstruction in the Wild Using Siamese Networks, ICCV2019, E. RAmon et al.  [[PDF]](https://openaccess.thecvf.com/content_ICCVW_2019/papers/3DFAW/Ramon_Multi-View_3D_Face_Reconstruction_in_the_Wild_Using_Siamese_Networks_ICCVW_2019_paper.pdf)[Code]()
-
 * **[Smei-Supervised]** Semi-Supervised Monocular 3D Face Reconstruction With End-to-End Shape-Preserved Domain Transfer, ICCV2019, J. Piao et al. [[PDF]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Piao_Semi-Supervised_Monocular_3D_Face_Reconstruction_With_End-to-End_Shape-Preserved_Domain_Transfer_ICCV_2019_paper.pdf)[Code]
-
 * **[3D-DRSD]** 3D Face Modeling From Diverse Raw Scan Data, ICCV2019, F. Liu et al. [[PDF]](https://arxiv.org/pdf/1902.04943v3.pdf)[[Code]](https://github.com/liuf1990/3DFC)
-
 * **[Alignment-GCN]** 3D Dense Face Alignment via Graph Convolution Networks, arXiv, H. Wei et al. [[PDF]](https://arxiv.org/pdf/1904.05562)[Code]
-
 * **[Cascaded regression]** Cascaded regression using landmark displacement for 3D face reconstruction, PRL2019, F. Wu et al. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0167865518303933/pdfft?md5=a69fa4563235a8c753c6470433d2e0cc&pid=1-s2.0-S0167865518303933-main.pdf)[Code]
-
 * **[Fusion-MLD]** Efficient and Accurate Face Shape Reconstruction by Fusion of Multiple Landmark Databases, ICIP2019, Y. Tian et al.[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8802934)[Code]
-
 * **[Landmark Updating]** Single View 3D Face Reconstruction with Landmark Updating, MIPR2019, P. Liu et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8695341)[Code]
-
 * **[2D-NeuralNet]** 3D face model reconstructing from its 2D images using neural networks, ATIT2019, O. Aleksandroav et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9030503)[Code]
-
 * **[3DF-Wild-Images]** On Learning 3D Face Morphable Model from In-the-Wild Images, TPAMI2019, L. Tran et al. [[PDF]](https://arxiv.org/pdf/1808.09560v2.pdf)[[Code]](https://github.com/tranluan/Nonlinear_Face_3DMM)
-
 * **[SSB]** A Self-Supervised Bootstrap Method for Single-Image 3D Face Reconstruction, WACV2019, Y. Xing et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8658722)[Code]
-
 * **[2D-germetric]** What does 2D geometric information really tell us about 3D face shape?,  IJCV2019, A. Bas et al. [[PDF]](https://arxiv.org/pdf/1708.06703v3.pdf)[[Code]](https://github.com/waps101/MatlabRenderer)
-
-  
-
 
 ### 2018
 
+* **[DF-JFR-R]** Disentangling Features in 3D Face Shapes for Joint Face Reconstruction and Recognition, CVPR2018, F. Liu et al. [[PDF]](https://arxiv.org/pdf/1803.11366v1)[Code]
+* **[Extreme3DFR]** Extreme 3D Face Reconstruction: Seeing Through Occlusions, CVPR2018, A. T. Tran et al. [[PDF]](https://arxiv.org/pdf/1712.05083v2.pdf)[[Code]](https://github.com/anhttran/extreme_3d_faces)
+* **[Unsupervised-Training]** Unsupervised Training for 3D Morphable Model Regression, CVPR2018, K. Genova et al. [[PDF]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Genova_Unsupervised_Training_for_CVPR_2018_paper.pdf)[[Code]](https://github.com/google/tf_mesh_renderer)
+* **[SP3DFR]** Sparse Photometric 3D Face Reconstruction Guided by Morphable Models, CVPR2018, X. Cao et al.[[PDF]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Cao_Sparse_Photometric_3D_CVPR_2018_paper.pdf)[Code]
+* **[SSML-250HZ]** Self-Supervised Multi-Level Face Model Learning for Monocular Reconstruction at Over 250 Hz, CVPR2018, A. Terwari et al. [[PDF]](https://arxiv.org/pdf/1712.02859v2.pdf)[Code]
+* **[Noliner-3DMM]** Nonlinear 3D Face Morphable Model, CVPR2018, L. Tran et al. [[PDF]](https://arxiv.org/pdf/1804.03786v3.pdf)[[Code]](https://github.com/tranluan/Nonlinear_Face_3DMM)
+* **[J3DFR-PMRNet]** Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network, ECCV2018, Y. Feng et al. [[PDF]](https://arxiv.org/pdf/1803.07835v1)[[Code]](https://github.com/YadiraF/PRNet)
+* **[G3DF-CMA]** Generating 3D Faces using Convolutional Mesh Autoencoders, ECCV2018, A. Ranjan et al. [[PDF]](https://arxiv.org/pdf/1807.10267v3.pdf)[[Code]](https://github.com/anuragranj/coma)
+* **[MobileFace]** MobileFace: 3D Face Reconstruction with Efficient CNN Regression, ECCV2018, N. Chinaev et al.[[PDF]](https://arxiv.org/pdf/1809.08809v1)[[Code]](https://github.com/nchinaev/MobileFace)
+* **[MFR-Tracking-Applications]** State of the Art on Monocular 3D Face Reconstruction, Tracking, and Applications,  CGF2018, M. Zollhfer et al. [[PDF]](http://zollhoefer.com/papers/EG18_FaceSTAR/paper.pdf)[Code]
+* **[Geometry Details]** 3D Face Reconstruction With Geometry Details From a Single Image, TIP2018, L. Jiang et al. [[PDF]](https://arxiv.org/pdf/1702.05619)[Code]
+* **[Muliti-view]** Multi-view 3D face reconstruction with deep recurrent neural networks, IMAVIS2018, P. Dou et al. [[PDF]](https://www.researchgate.net/profile/Pengfei-Dou/publication/322634964_Multi-View_3D_Face_Reconstruction_with_Deep_Recurrent_Neural_Networks/links/5a6584a2a6fdccb61c5803cf/Multi-View-3D-Face-Reconstruction-with-Deep-Recurrent-Neural-Networks.pdf)[Code]
+* **[CNN-RealTime]** CNN-Based Real-Time Dense Face Reconstruction with Inverse-Rendered Photo-Realistic Face Images, TPAMI2018, Y. Guo et al. [[PDF]](https://arxiv.org/pdf/1708.00980v3.pdf)[Code]
+* **[3DFR-LFI]** 3D Face Reconstruction from Light Field Images: A Model-free Approach, ECCV2018,  M. Feng et al. [[PDF]](https://arxiv.org/pdf/1711.05953v4.pdf)[Code]
+* **[HFMFR-UM]** High-Fidelity Monocular Face Reconstruction Based on an Unsupervised Model-Based Face Autoencoder, TPAMI2018, A. Tewari et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8496850)[Code]
+* **[RGB-D]** Texture Mapping for 3D Reconstruction With RGB-D Sensor, CVPR2018, Y. Fu et al. [[PDF]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Fu_Texture_Mapping_for_CVPR_2018_paper.pdf)
+* **[Low-Resolution]** 3D Face Reconstruction from Low-Resolution Images with Convolutional Neural Networks, ICVIP2018, R. Winkler et al. [[PDF]](https://www.researchgate.net/profile/Chengchao-Qu/publication/332285472_3D_Face_Reconstruction_from_Low-Resolution_Images_with_Convolutional_Neural_Networks/links/5d5e490f299bf1b97cfd090a/3D-Face-Reconstruction-from-Low-Resolution-Images-with-Convolutional-Neural-Networks.pdf)[Code]
+* **[ExpNet]** ExpNet: Landmark-Free, Deep, 3D Facial Expressions, FG2018, F. Chang et al. [[PDF]](https://arxiv.org/pdf/1802.00542)[Code]
 
 ### 2017
+
+* 
 
 
 ### Before 2017
 
--
+* 
 
 ## Datasets
 
@@ -196,7 +190,9 @@ A list of 3D face reconstruction resources. We try to keep it updated every week
 * **[FDDB](https://paperswithcode.com/dataset/fddb)**
 * **[FRGC](https://paperswithcode.com/dataset/frgc)**
 * **[Helen](https://paperswithcode.com/dataset/helen)**
+* **[IJB-A](https://paperswithcode.com/dataset/ijb-a)**
 * **[LSUN](https://paperswithcode.com/dataset/lsun)**
+* **[LFW](https://paperswithcode.com/dataset/lfw)**
 * **[LS3D-W](https://paperswithcode.com/dataset/ls3d-w)**
 * **[Multi-PIE](https://paperswithcode.com/dataset/multi-pie)**
 * **[NoW Benchmark](https://paperswithcode.com/dataset/now-benchmark)**
@@ -204,6 +200,7 @@ A list of 3D face reconstruction resources. We try to keep it updated every week
 * **[VGGFace2](https://paperswithcode.com/dataset/vggface2-1)**
 * **[VoxCeleb2](https://paperswithcode.com/dataset/voxceleb2)**
 * **[WIDER FACE](https://paperswithcode.com/dataset/wider-face-1)**
+* [300W](https://paperswithcode.com/dataset/300w)
 
 ## Evaluation Metrics
 
