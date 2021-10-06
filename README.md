@@ -172,8 +172,10 @@ A list of 3D face reconstruction resources. We try to keep it updated every week
 
 
 ### Before 2017
+* **[3DFR-SD]** 3D Face Reconstruction by Learning from Synthetic Data, INSPEC2016, E. Richardson et al. [[PDF]](https://arxiv.org/pdf/1609.04387v2.pdf)[Code]
+* **[SingelReference]** 3D Face Reconstruction from a Single Image Using a Single Reference Face Shape, TPAMI2010, I. Kemelmacher-Shlizerman et al. [[PDF]](https://www.academia.edu/download/43093695/D_Face_Reconstruction_from_a_Single_Imag20160226-11379-4skfk2.pdf)[Code]
+* **[QualityMeasures]** Automated 3D Face Reconstruction From Multiple Images Using Quality Measures, CVPR2016, M. Piotraschke et al. [[PDF]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Piotraschke_Automated_3D_Face_CVPR_2016_paper.pdf)[Code] 
 
-* 
 
 ## Datasets
 
