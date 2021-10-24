@@ -6,6 +6,12 @@ A list of 3D face reconstruction resources. We try to keep it updated every week
 
 ### 2021
 
+- **[VariTex]** VariTex: Variational Neural Face Textures, ICCV2021, Marcel C. Buhler et al. [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Buhler_VariTex_Variational_Neural_Face_Textures_ICCV_2021_paper.pdf)[[Code]](https://github.com/mcbuehler/VariTex)
+- **[CEST]** Self-Supervised 3D Face Reconstruction via Conditional Estimation, ICCV2021, Y. Wen et al. [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wen_Self-Supervised_3D_Face_Reconstruction_via_Conditional_Estimation_ICCV_2021_paper.pdf)[Code]
+- **[LHFFT]** Learning High-Fidelity Face Texture Completion Without Complete Face Texture, ICCV2021, J. Kin et al.[[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Learning_High-Fidelity_Face_Texture_Completion_Without_Complete_Face_Texture_ICCV_2021_paper.pdf) [Code]
+- **[SSL-Ray Tracing]** Towards High Fidelity Monocular Face Reconstruction with Rich Reflectance using Self-supervised Learning and Ray Tracing, ICCV2021, A. Dib et al. [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Dib_Towards_High_Fidelity_Monocular_Face_Reconstruction_With_Rich_Reflectance_Using_ICCV_2021_paper.pdf)[[Code]](https://github.com/abdallahdib/abdallahdib.github.io)
+- **[H3D-Net]** H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction, ICCV2021, E. Ramon et al. [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Ramon_H3D-Net_Few-Shot_High-Fidelity_3D_Head_Reconstruction_ICCV_2021_paper.pdf)[Code]
+- **[3DIAS]** 3D Shape Reconstruction with Implicit Algebraic Surfaces, ICCV2021, M. Yavartanoo et al.[[PDF]](https://arxiv.org/pdf/2108.08653)[[Code]](https://github.com/myavartanoo/3DIAS_PyTorch)
 - **[INORig]** Riggable 3D Face Reconstruction via In-Network Optimization, CVPR2021, Z. Bai et al. [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Bai_Riggable_3D_Face_Reconstruction_via_In-Network_Optimization_CVPR_2021_paper.pdf)[[Code]](https://github.com/zqbai-jeremy/INORig)
 
 - **[3DCS]**  3DCaricShop: A Dataset and a Baseline Method for Single-View 3D Caricature Face Reconstruction, CVPR2021, Y. Qiu et al. [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Qiu_3DCaricShop_A_Dataset_and_a_Baseline_Method_for_Single-View_3D_CVPR_2021_paper.pdf)[Code]
